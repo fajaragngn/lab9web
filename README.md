@@ -12,3 +12,7 @@
 ## 2. Buat file baru dengan nama footer.php
 
 ![img1!](assets/img/2/1.png)
+
+## 3. Buat file baru dengan nama home.php
+
+![img1!](assets/img/3/1.png)
