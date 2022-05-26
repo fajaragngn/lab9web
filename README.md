@@ -31,14 +31,24 @@
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
 ```
-+-- config
-        koneksi.php
-        tambah.php
-+-- layouts
-    +-- footer.html
-    +-- header.html
-+-- static
-    +-- default.html
-    +-- post.html
-+-- index.html
+.
+├── config
+│   ├── hapus.php
+│   ├── koneksi.php
+│   ├── tambah.php
+│   └── ubah.php
+├── index.php
+├── layouts
+│   ├── footer.php
+│   ├── head-static.php
+│   ├── header.php
+│   ├── main.php
+│   ├── tambah.php
+│   └── ubah.php
+├── static
+│   ├── css
+│   │   └── style.css
+│   └── img
+├── tambah.php
+└── ubah.php
 ```
