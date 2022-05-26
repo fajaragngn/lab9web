@@ -33,13 +33,13 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 ```
 +-- _config.yml
 +-- config
-|   +-- koneksi.php
-|   +-- tambah.php
+    +-- koneksi.php
+    +-- tambah.php
 +-- layouts
-|   +-- footer.html
-|   +-- header.html
+    +-- footer.html
+    +-- header.html
 +-- static
-|   +-- default.html
-|   +-- post.html
+    +-- default.html
+    +-- post.html
 +-- index.html
 ```
