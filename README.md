@@ -30,6 +30,8 @@
 ## Pertanyaan dan Tugas
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
+### berikut struktur direktori yang saya buat
+
 ```
 .
 ├── config
