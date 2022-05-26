@@ -92,3 +92,10 @@ main.php
 footer.php
 
 ![img1!](assets/img/praktikum/8.png)
+
+## static
+Untuk menyimpan file yg diperlukan, seperti css, js, gambar
+
+style.css
+
+![img1!](assets/img/praktikum/9.png)
