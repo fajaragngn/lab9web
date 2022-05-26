@@ -73,3 +73,22 @@ ubah.php
 hapus.php
 
 ![img1!](assets/img/praktikum/4.png)
+
+### layouts
+Untuk menyimpan tampilan utama pada website, dan dibagi pada beberapa file
+
+head-static.php
+
+![img1!](assets/img/praktikum/5.png)
+
+header.php
+
+![img1!](assets/img/praktikum/6.png)
+
+main.php
+
+![img1!](assets/img/praktikum/7.png)
+
+footer.php
+
+![img1!](assets/img/praktikum/8.png)
