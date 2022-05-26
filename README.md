@@ -20,3 +20,9 @@
 ## 4. Buat file baru dengan nama about.php
 
 ![img1!](assets/img/4/1.png)
+
+## 5. Output
+
+![img1!](assets/img/5/1.png)
+
+![img1!](assets/img/5/2.png)
