@@ -99,3 +99,18 @@ Untuk menyimpan file yg diperlukan, seperti css, js, gambar
 style.css
 
 ![img1!](assets/img/praktikum/9.png)
+
+## index.php, tambah.php, ubah.php
+File utama dan berfungsi sebagai wadah untuk memanggil sub-file di beberapa direktori
+
+index.php
+
+![img1!](assets/img/praktikum/10.png)
+
+tambah.php
+
+![img1!](assets/img/praktikum/12.png)
+
+ubah.php
+
+![img1!](assets/img/praktikum/13.png)
