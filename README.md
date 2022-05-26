@@ -33,7 +33,7 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 ### berikut struktur direktori yang saya buat
 
 ```
-.
+lab8_php_database
 ├── config
 │   ├── hapus.php
 │   ├── koneksi.php
