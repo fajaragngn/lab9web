@@ -16,3 +16,7 @@
 ## 3. Buat file baru dengan nama home.php
 
 ![img1!](assets/img/3/11.png)
+
+## 4. Buat file baru dengan nama about.php
+
+![img1!](assets/img/4/1.png)
