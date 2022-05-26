@@ -58,4 +58,5 @@ lab8_php_database
 ### config
 dalam folder tersebut menyimpan file khusus php yang nanti akan dieksekusi 
 
-![img1!](assets/img/praktikum/1.png)
+Koneksi.php
+![img1!](assets/img/praktikum/11.png)
