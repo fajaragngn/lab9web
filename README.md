@@ -30,7 +30,7 @@
 ## Pertanyaan dan Tugas
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
-.
+```
 +-- _config.yml
 +-- config
 |   +-- koneksi.php
@@ -42,3 +42,4 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 |   +-- default.html
 |   +-- post.html
 +-- index.html
+```
