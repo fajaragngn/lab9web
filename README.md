@@ -114,3 +114,11 @@ tambah.php
 ubah.php
 
 ![img1!](assets/img/praktikum/13.png)
+
+## Output
+
+![img1!](assets/img/praktikum/14.png)
+
+![img1!](assets/img/praktikum/15.png)
+
+![img1!](assets/img/praktikum/16.png)
