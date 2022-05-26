@@ -37,7 +37,6 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 │   ├── koneksi.php
 │   ├── tambah.php
 │   └── ubah.php
-├── index.php
 ├── layouts
 │   ├── footer.php
 │   ├── head-static.php
@@ -49,6 +48,7 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 │   ├── css
 │   │   └── style.css
 │   └── img
+├── index.php
 ├── tambah.php
 └── ubah.php
 ```
