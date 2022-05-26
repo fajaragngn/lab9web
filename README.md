@@ -55,7 +55,7 @@ lab8_php_database
 └── ubah.php
 ```
 
-### config
+## config
 dalam folder tersebut menyimpan file khusus php yang nanti akan dieksekusi 
 
 koneksi.php
@@ -74,7 +74,7 @@ hapus.php
 
 ![img1!](assets/img/praktikum/4.png)
 
-### layouts
+## layouts
 Untuk menyimpan tampilan utama pada website, dan dibagi pada beberapa file
 
 head-static.php
