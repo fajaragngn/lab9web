@@ -15,4 +15,4 @@
 
 ## 3. Buat file baru dengan nama home.php
 
-![img1!](assets/img/3/1.png)
+![img1!](assets/img/3/11.png)
