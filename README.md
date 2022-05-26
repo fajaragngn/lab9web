@@ -54,3 +54,8 @@ lab8_php_database
 ├── tambah.php
 └── ubah.php
 ```
+
+### config
+dalam folder tersebut menyimpan file khusus php yang nanti akan dieksekusi 
+
+![img1!](assets/img/praktikum/1.png)
