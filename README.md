@@ -32,8 +32,8 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 
 ```
 +-- config
-    +-- koneksi.php
-    +-- tambah.php
+        koneksi.php
+        tambah.php
 +-- layouts
     +-- footer.html
     +-- header.html
